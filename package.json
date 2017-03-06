@@ -1,0 +1,9 @@
+{
+  "description": "Javascript Utility to test for and remove accents/diacritics in strings.",
+  "repository": "https://github.com/mk7upurz87/jdu.git",
+  "README": "See README...",
+  "license": "See LICENSE...",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
