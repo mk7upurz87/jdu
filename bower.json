@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "homepage": "https://github.com/mk7upurz87/jdu",
   "authors": [
-    "mk7upurz87"
+    "https://github.com/mk7upurz87"
   ],
   "description": "Javascript Utility to test for and remove accents/diacritics in strings.",
   "main": "jdu.js",
@@ -20,8 +20,5 @@
     "bower_components",
     "test"
   ],
-  "dependencies": {},
-  "devDependencies": {
-    "qunit": "^2.1.1"
-  }
+  "dependencies": {}
 }
