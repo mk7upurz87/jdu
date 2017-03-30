@@ -12,6 +12,8 @@ Getting started
 ### Download
 
 - [Download](https://github.com/mk7upurz87/jdu/archive/master.zip) from github.
+- install from bower: bower i jdu
+- install from npm: npm i jdu
 
 ### Install from bower
 ```
